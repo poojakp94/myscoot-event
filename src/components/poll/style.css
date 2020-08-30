@@ -1,0 +1,24 @@
+.ques {
+  height: 80px;
+  width: 100%;
+  margin-bottom: 30px;
+  border: none;
+  border-radius: 10px;
+  padding: 0 10px 10px;
+}
+
+.options {
+  height: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  padding: 0 10px 10px;
+  position: relative;
+}
+
+.add-btn {
+  border: none;
+  outline: none;
+  color: #FFA902;
+  cursor: pointer;
+}
