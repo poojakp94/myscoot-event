@@ -5,7 +5,7 @@ import Tab from "./components/tabs";
 import TabContent from "./components/tabContent";
 
 function App() {
-  const [activeTab, setActiveTab] = useState("3");
+  const [activeTab, setActiveTab] = useState("1");
   return (
     <div className="app">
       <p className="header">Are you ready to start the event?</p>
