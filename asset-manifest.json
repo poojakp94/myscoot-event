@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/myscoot-event/static/css/main.7c4a3dae.chunk.css",
+    "main.js": "/myscoot-event/static/js/main.964f4d77.chunk.js",
+    "main.js.map": "/myscoot-event/static/js/main.964f4d77.chunk.js.map",
+    "runtime-main.js": "/myscoot-event/static/js/runtime-main.a09b1754.js",
+    "runtime-main.js.map": "/myscoot-event/static/js/runtime-main.a09b1754.js.map",
+    "static/js/2.c3bae57e.chunk.js": "/myscoot-event/static/js/2.c3bae57e.chunk.js",
+    "static/js/2.c3bae57e.chunk.js.map": "/myscoot-event/static/js/2.c3bae57e.chunk.js.map",
+    "index.html": "/myscoot-event/index.html",
+    "precache-manifest.127d858f9f107ff526b1315596b7b87d.js": "/myscoot-event/precache-manifest.127d858f9f107ff526b1315596b7b87d.js",
+    "service-worker.js": "/myscoot-event/service-worker.js",
+    "static/css/main.7c4a3dae.chunk.css.map": "/myscoot-event/static/css/main.7c4a3dae.chunk.css.map",
+    "static/js/2.c3bae57e.chunk.js.LICENSE.txt": "/myscoot-event/static/js/2.c3bae57e.chunk.js.LICENSE.txt",
+    "static/media/game1.jpg": "/myscoot-event/static/media/game1.57508b60.jpg",
+    "static/media/guitarist.jpg": "/myscoot-event/static/media/guitarist.017519a7.jpg",
+    "static/media/person1.jpg": "/myscoot-event/static/media/person1.125b789c.jpg",
+    "static/media/person10.jpg": "/myscoot-event/static/media/person10.e0e5f7fc.jpg",
+    "static/media/person11.jpg": "/myscoot-event/static/media/person11.f75fecca.jpg",
+    "static/media/person2.jpg": "/myscoot-event/static/media/person2.89ebc57e.jpg",
+    "static/media/person4.jpg": "/myscoot-event/static/media/person4.5e007af2.jpg",
+    "static/media/person5.jpg": "/myscoot-event/static/media/person5.bb277390.jpg",
+    "static/media/person6.jpg": "/myscoot-event/static/media/person6.2c27edfe.jpg",
+    "static/media/person7.jpg": "/myscoot-event/static/media/person7.08ce5899.jpg",
+    "static/media/person8.jpg": "/myscoot-event/static/media/person8.a14b215b.jpg",
+    "static/media/person9.jpg": "/myscoot-event/static/media/person9.82bd03f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a09b1754.js",
+    "static/js/2.c3bae57e.chunk.js",
+    "static/css/main.7c4a3dae.chunk.css",
+    "static/js/main.964f4d77.chunk.js"
+  ]
+}
