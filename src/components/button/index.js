@@ -4,7 +4,7 @@ function Button({ text }) {
   return (
     <button
       style={{
-        backgroundColor: "#FFA902",
+        backgroundColor: "#ff5b00",
         color: "#fff",
         padding: "10px 40px",
         outline: "none",
@@ -12,7 +12,7 @@ function Button({ text }) {
         borderRadius: "50px",
         fontWeight: "600",
         fontSize: "1rem",
-        cursor: 'pointer'
+        cursor: "pointer",
       }}
     >
       {text}
